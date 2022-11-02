@@ -17,6 +17,19 @@ section {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.582);
 }
 
+#txti {
+    margin-left: 7px;
+}
+
+#txtf {
+    margin-left: 22px;
+}
+
+input {
+    border-radius: 10px;
+    height: 25px;
+}
+
 footer {
     color: white;
     text-align: center;
