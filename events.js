@@ -21,6 +21,6 @@ function contar() {
                 res.innerHTML += `${c} `
             }
         }
-        
+        res.innerHTML += `\u{1F3C1}`
     }
 }
